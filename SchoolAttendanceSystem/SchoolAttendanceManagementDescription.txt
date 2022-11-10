@@ -1,0 +1,15 @@
+School Attendance
+
+-->Teacher Login
+   1)view Teacher Profile
+   2)View Student Attendance
+      >view Whole Attendance
+      >view Single student Attendance
+      >view Attendance use Date
+      >view Attendance use Date and StudentId
+    3)Put attendance to studends
+
+-->Student Login
+  1)View Student Profile
+  2)View Attendance History
+  3)Leave Apply
