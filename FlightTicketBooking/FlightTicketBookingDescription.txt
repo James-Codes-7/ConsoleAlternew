@@ -1,0 +1,11 @@
+Flight Ticket Booking
+
+-->Admin
+   1)View Flight Details
+   2)View Passenger Details
+   3)view Ticket Details
+
+-->Passenger
+   1)Ticket Booking
+   2)View Ticket
+   3)Cancel Ticket
