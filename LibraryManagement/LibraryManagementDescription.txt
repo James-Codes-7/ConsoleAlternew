@@ -1,0 +1,14 @@
+Library Management
+
+-->Manage Book
+    1)View Book List
+    2)Add Book
+    3)Delete the Book
+
+-->Manage Admin
+     1)View User
+     2)Add User
+     3)View User List
+     4)Assign Book to User
+     5)Return the Book
+     6)View Assign Book list;
