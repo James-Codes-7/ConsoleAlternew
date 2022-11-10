@@ -1,0 +1,16 @@
+Banking System
+
+-->Admin
+    1)Customer Information
+       >View Customer List
+       >Single User Profile
+       >View Whole Transaction
+       >View Single User Transaction
+
+-->Customer 
+    1)Account Create
+    2)Login
+      >View Account balance
+      >Deposite Money
+      >Account Transfer
+      >Transaction History
