@@ -50,7 +50,7 @@ public class ManageAdmin {
                 try {
 
 
-                        System.out.println("View Customer Info          Press 1");
+                        System.out.println("View Customer Information   Press 1");
                         System.out.println("Add admin                   Press 2");
                         System.out.println("Exit                        Press 3");
                         option = scanner.nextByte();
