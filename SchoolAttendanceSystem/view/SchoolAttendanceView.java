@@ -18,9 +18,6 @@ public class SchoolAttendanceView {
     {
         System.out.println("Welcome To School Attendance System");
         System.out.println();
-
-
-
         boolean bool=true;
         byte option=0;
         while(bool)
